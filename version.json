@@ -1,6 +1,7 @@
 {
   "version": "1.2",
   "download_url": "https://github.com/mbotsupport-2026/mbot_fish_2026/releases/latest/download/mb_latest.zip",
-  "changelog": "Correction du bug de détection et ajout du système d'alerte Discord.",
-  "force_update": true
+  "changelog": ".",
+  "force_update": true,
+  "sha256": "6f54e00f37ea57004c302c50460446ed7e4c181562f30210775e29a4846a1893"
 }
